@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="Animal">
+        <item>Elephant</item>
+        <item>Horse</item>
+        <item>Lion</item>
+        <item>Tiger</item>
+        <item>Monkey</item>
+        <item>Leopard</item>
+        <item>Zebra</item>
+        <item>Deer</item>
+        <item>Wolf</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Buffalo</item>
+        <item>Bull</item>
+        <item>Ox</item>
+        <item>Giraffe</item>
+        <item>Fox</item>
+        <item>Rabbit</item>
+        <item>Camel</item>
+        <item>Bear</item>
+    </string-array>
+</resources>

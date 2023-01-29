@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/first"
+    android:title="First"/>
+
+    <item android:id="@+id/second"
+        android:title="Second"/>
+
+    <item android:id="@+id/reset"
+        android:title="Reset"
+        android:icon="@drawable/ic_baseline_refresh_24"
+        app:showAsAction="always"/>
+
+    //ifroom means if there is a spce in toolbar then it shows action otherwise it shows inside three dots
+</menu>
